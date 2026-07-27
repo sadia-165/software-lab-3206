@@ -8,8 +8,7 @@ int add(int a, int b)
 
 int main()
 {
-    cout << "Hello World" << endl;
-    cout << "Sum = " << add(10, 20);
-
+    cout << "Hello Software Engineering Lab" << endl;
+    cout << "Sum = " << add(10, 20) << endl;
     return 0;
 }
